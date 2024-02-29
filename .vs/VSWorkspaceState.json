@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Profile",
+    "\\src\\components\\Sidebar",
+    "\\src\\components\\SuggestedUsers",
+    "\\src\\Layouts",
+    "\\src\\Layouts\\PageLayout",
+    "\\src\\pages",
+    "\\src\\pages\\ProfilePage"
+  ],
+  "PreviewInSolutionExplorer": false
+}
